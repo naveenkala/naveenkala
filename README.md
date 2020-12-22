@@ -2,8 +2,11 @@
 ### I am Naveen Kala from India
 ### :mortar_board: I am persuing B.Tech CSE :arrow_right: passout year 2021
 ### :sparkles: Web development enthusiast
-### 📫 How to reach me:  
-## Linkedin https://www.linkedin.com/in/naveen-kala/
+
+## 📫 How to reach me:  
+### Gmail naveenkala987@gmail.com
+### Linkedin https://www.linkedin.com/in/naveen-kala/
+
 <!--
 **naveenkala/naveenkala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
