@@ -1,10 +1,9 @@
 ### Hi there 👋
-### I am Naveen Kala from India
-### :mortar_board: I am persuing B.Tech CSE :arrow_right: passout year 2021
+### I am Naveen
+### :mortar_board: B.Tech CSE :arrow_right: year 2021
 ### :sparkles: Web development enthusiast
 
 ## 📫 How to reach me:  
-### Gmail naveenkala987@gmail.com
 ### Linkedin https://www.linkedin.com/in/naveen-kala/
 
 <!--
